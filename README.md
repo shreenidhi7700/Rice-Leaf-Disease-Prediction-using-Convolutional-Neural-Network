@@ -47,3 +47,7 @@ Effective disease management strategies include using disease-resistant rice var
 Early detection and prompt intervention are crucial to minimizing the economic and agronomic losses caused by these diseases.
 The classification model developed in this project will contribute to early disease detection and timely management, helping to ensure healthier rice crops and higher yields.
 Remember that accurate disease diagnosis requires the expertise of plant pathologists. This analysis serves as a general overview, and specific diagnosis should involve consultation with experts in the field.
+
+## **Suggestions from you**
+### **Feel free to give us any suggestions regarding improvisation /corrections of our code or any mistakes/procedures done incorrectly in our project notebook. We are in the path of learning and understanding the concept of Machine learning, so any feedback regarding this topic from any of you who worked in these type of projects is beneficial to us in correcting our mistakes and implementing the recorrected procedures to our project.** 
+
